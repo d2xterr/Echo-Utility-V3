@@ -1,0 +1,149 @@
+{
+  "tickets": {
+    "1381287636580171816": {
+      "user_id": 1225221594981335083,
+      "username": "VXpigeon",
+      "type": "Player Reports",
+      "category": "reports",
+      "created_at": "2025-06-08T16:03:53.441380",
+      "last_activity": "2025-06-08T16:07:23.917079",
+      "claimed_by": null,
+      "warning_sent": false
+    },
+    "1381291963965509653": {
+      "user_id": 1377452220919975988,
+      "username": "no",
+      "type": "Support Tickets",
+      "category": "support",
+      "created_at": "2025-06-08T16:21:05.225246",
+      "last_activity": "2025-06-08T16:21:05.225263",
+      "claimed_by": null,
+      "warning_sent": false
+    },
+    "1381292108001837107": {
+      "user_id": 1272304011575558215,
+      "username": "WRWAR",
+      "type": "Support Tickets",
+      "category": "support",
+      "created_at": "2025-06-08T16:21:39.500845",
+      "last_activity": "2025-06-08T16:21:43.243732",
+      "claimed_by": null,
+      "warning_sent": false
+    },
+    "1381295242963189770": {
+      "user_id": 1106915426396540938,
+      "username": "d2xter",
+      "type": "Support Tickets",
+      "category": "support",
+      "created_at": "2025-06-08T16:34:06.768843",
+      "last_activity": "2025-06-08T16:35:09.958429",
+      "claimed_by": 1377452220919975988,
+      "warning_sent": false
+    }
+  },
+  "closed_tickets": {
+    "1381286576201666651": {
+      "user_id": 1106915426396540938,
+      "username": "ds2xter",
+      "type": "Player Reports",
+      "category": "reports",
+      "created_at": "2025-06-08T15:59:40.450130",
+      "last_activity": "2025-06-08T16:00:30.536224",
+      "claimed_by": 1155913734296981524,
+      "warning_sent": false,
+      "closed_by": 1155913734296981524,
+      "closed_at": "2025-06-08T16:00:36.048258"
+    },
+    "1381292128281432258": {
+      "user_id": 1106915426396540938,
+      "username": "d2xter",
+      "type": "Support Tickets",
+      "category": "support",
+      "created_at": "2025-06-08T16:21:44.371082",
+      "last_activity": "2025-06-08T16:21:52.084879",
+      "claimed_by": null,
+      "warning_sent": false,
+      "closed_by": 1155913734296981524,
+      "closed_at": "2025-06-08T16:22:04.208904",
+      "transcript": "DiddyClient: <@1106915426396540938>\nd2xterrr: <@1155913734296981524> close it for me"
+    },
+    "1381291983624208386": {
+      "user_id": 1155913734296981524,
+      "username": "a",
+      "type": "Appeals",
+      "category": "appeals",
+      "created_at": "2025-06-08T16:21:09.814298",
+      "last_activity": "2025-06-08T16:21:09.814309",
+      "claimed_by": null,
+      "warning_sent": false,
+      "closed_by": 1155913734296981524,
+      "closed_at": "2025-06-08T16:22:11.924182",
+      "transcript": "DiddyClient: <@1155913734296981524>"
+    },
+    "1381292766407036928": {
+      "user_id": 1106915426396540938,
+      "username": "d2xter",
+      "type": "Support Tickets",
+      "category": "support",
+      "created_at": "2025-06-08T16:24:16.402762",
+      "last_activity": "2025-06-08T16:24:57.135403",
+      "claimed_by": 1377452220919975988,
+      "warning_sent": false,
+      "closed_by": 1377452220919975988,
+      "closed_at": "2025-06-08T16:24:58.715524",
+      "transcript": "DiddyClient: <@1106915426396540938>\nd2xterrr: <@1155913734296981524>\nd2xterrr: @everyone someone close for mpls\nDiddyClient: \neonx2x: ok"
+    },
+    "1381293993127579840": {
+      "user_id": 1106915426396540938,
+      "username": "d2xter",
+      "type": "Support Tickets",
+      "category": "support",
+      "created_at": "2025-06-08T16:29:08.832392",
+      "last_activity": "2025-06-08T16:30:13.347108",
+      "claimed_by": 1377452220919975988,
+      "warning_sent": false,
+      "closed_by": 1106915426396540938,
+      "closed_at": "2025-06-08T16:30:18.286426",
+      "transcript": "DiddyClient: <@1106915426396540938>\nd2xterrr: <@1377452220919975988>\n58942: yes\n58942: <@1106915426396540938>\nd2xterrr: claim ticket pls\nDiddyClient: \nd2xterrr: bro\nd2xterrr: <@1155913734296981524>\nd2xterrr: can u speak in here\neonx2x: yes\neonx2x: a\neonx2x: a\nd2xterrr: ffs\neonx2x: a\neonx2x: nooooob\nd2xterrr: wait"
+    },
+    "1381294379381031033": {
+      "user_id": 1106915426396540938,
+      "username": "d2xt",
+      "type": "Media Applications",
+      "category": "media",
+      "created_at": "2025-06-08T16:30:40.868819",
+      "last_activity": "2025-06-08T16:33:54.415586",
+      "claimed_by": 1377452220919975988,
+      "warning_sent": false,
+      "closed_by": 1106915426396540938,
+      "closed_at": "2025-06-08T16:33:55.959800",
+      "transcript": "DiddyClient: <@1106915426396540938>\nd2xterrr: <@1377452220919975988>\nd2xterrr: claim pls\nDiddyClient: \nd2xterrr: BRO\nd2xterrr: FFS\nvinkydinkyy7: MONCOOL IS GRIEFING MY BASE\nd2xterrr: same mums"
+    },
+    "1381313109301661726": {
+      "user_id": 1106915426396540938,
+      "username": "d2xter",
+      "type": "Media Applications",
+      "category": "media",
+      "created_at": "2025-06-08T17:45:06.665475",
+      "last_activity": "2025-06-08T17:45:06.665489",
+      "claimed_by": null,
+      "warning_sent": false,
+      "closed_by": 1155913734296981524,
+      "closed_at": "2025-06-08T17:45:30.360580",
+      "transcript": "DiddyClient: <@1106915426396540938>\nd2xterrr: <@1155913734296981524>\neonx2x: yes\nd2xterrr: close for me pls"
+    },
+    "1381331684619849839": {
+      "user_id": 1106915426396540938,
+      "username": "d2xtewr",
+      "type": "Player Reports",
+      "category": "Team",
+      "created_at": "2025-06-08T18:58:56.559120",
+      "last_activity": "2025-06-08T18:59:03.142408",
+      "claimed_by": 1377452220919975988,
+      "warning_sent": false,
+      "closed_by": 1106915426396540938,
+      "closed_at": "2025-06-08T18:59:03.608837",
+      "transcript": "Echo Network: <@1106915426396540938>"
+    }
+  }
+}
