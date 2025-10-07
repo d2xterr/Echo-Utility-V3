@@ -1,4 +1,4 @@
-# Discord Management Bot
+# Echo Utility V3
 
 A comprehensive Discord bot featuring ticket management, moderation tools, staff applications, Minecraft server integration, and much more.
 
